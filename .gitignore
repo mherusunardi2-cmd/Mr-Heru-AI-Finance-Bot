@@ -1,0 +1,10 @@
+# Mengabaikan database agar data keuangan tidak terupload ke GitHub
+keuangan.db
+
+# Mengabaikan folder virtual environment
+env/
+venv/
+__pycache__/
+
+# Mengabaikan file excel yang tidak sengaja tersisa
+*.xlsx
